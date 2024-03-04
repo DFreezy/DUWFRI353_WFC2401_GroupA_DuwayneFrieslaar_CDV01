@@ -25,8 +25,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     - List your current skills and areas of expertise.
 
-    HTML
-    CSS
+    HTML,
+    CSS,
     Version control
 
     - Identify skills you need to develop or improve.
@@ -37,11 +37,11 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Describe your key interests related to your career.
 
-    I love to design web pages for landing pages, and portfolios
+    I love to design for landing pages, and portfolios, because it allows me to put a creative twist on what I design.
 
     - What values are important to you in a work environment?
 
-    When people are supportive instead of mean toward me, and also having my own space so I could focus.
+    When people are supportive instead of mean towards each other, and also having my own space so I could focus.
 
                                                     ### Part 2: Career Exploration Insights
 
