@@ -33,15 +33,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     Javascript
 
-2. **Interests and Values**:
+3. **Interests and Values**:
     
     - Describe your key interests related to your career.
 
-    I love to design for landing pages, and portfolios, because it allows me to put a creative twist on what I design.
+    I love to design for landing pages, and portfolios, because it allows me to put a creative twist on what I design, and also gives me the freedom to spent time with family and friends by working remotely.
 
     - What values are important to you in a work environment?
 
-    When people are supportive instead of mean towards each other, and also having my own space so I could focus.
+    When people are supportive instead of mean towards each other, and also having my own space so I could focus. Freedom of expression is also important to me.
 
                                                     ### Part 2: Career Exploration Insights
 
@@ -58,18 +58,20 @@ By completing this reflection, you will gain a clearer understanding of your car
     Web developer
     Game developer
     Software developer
+   Front-end web developer
+   Robotics
 
-2. **Alignment with Personal Profile**:!
+3. **Alignment with Personal Profile**:!
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
 
     These roles are perfect for my introverted nature, because I feel that it would grant me space to think about my current tasks
     They are perfect because it would give me an opportunity to flex my creative muscles.
-    It would also grant me peace so I could work more effectively.
+    It would also grant me peace so I could work more effectively given my flexible schedule. I can trust myself to deliver on a deadline, but choose when to work.
 
     - Identify any gaps or areas for further exploration.
 
-    I could improve my communication skills
+    I could improve my communication skills, because I currently have a hard time forming deep connections with people.
     I could also find out what it's like to work in a team.
 
                                                            ### Part 3: SMART Career Goals
@@ -78,24 +80,26 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
 
-    Apply for a junior developer job by the end of the course
-    Sit in an interview by December 2024
-    Apply to 20 jobs a week
+    Apply to ten junior web developer jobs by the end of the year
+    Adopt a strict morning meditation practice to make sure I'm at my best
+    Make at least 100K from my developer job
+    Conquer HTML, CSS, and Javascript languages, and the frameworks associated with that by studying tutorials everyday
 
     - Explain the rationale behind each goal.
-    These goals are completely in my control to achieve
+    These goals are completely in my control to achieve as long as I stick to the plan and not lose hope
     These systems will eventually lead to the perfect career.
 
-2. **Long-term Goals** (3-5 years and beyond):
+3. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
 
-    I want to be able to earn more money.
-    I want to have a relaxed lifestyle, but still deliver quality work.
-    I want to have freedom to spend time with friends and family.
-
+    I want to be able to earn more money, so I can invest in companies such as Amazon, google to make passive income, and a great ROI. And build great financial security
+    I want to have a relaxed lifestyle, but still deliver quality work as I'm sitting in cafe with my laptop, and drinking my coffee with a chocolste muffin.
+    I want to have freedom to spend time with friends and family, instead of always cancelling when I can't make it to a party. 
+    I want to spoil everyone on Christmas without feeling broke afterwards.
+   When anyone in my family gets sick, I want to be able to afford the best medical care.
     - Describe how these align with your interests and skills.
-
+    I have always been a somewhat free spirit, but I was trapped within the shackles of my shyness, but I want to break free by finally calling the shots in my own life.
     I'm an introvert, and this fits in my peaceful nature
     I like to express myself creatively, and I can do that through designing websites, and applications
 
@@ -105,9 +109,9 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Detail specific actions or steps needed to achieve each short-term goal.
 
-    It's going to take determination, and not givving up.
-    It's going to take staying calm in interviews.
-    It's going to take perfecting my skills
+    It's going to take determination, and not giving up when things get hard. I'm going to apply to several jobs a week till I get a job.
+    It's going to take staying calm in interviews. I'm going to religiously deliver on deadlines and outlearn my imposter syndrome to progress further.
+    It's going to take perfecting my skills. I'm goingto learn at least the foundation of a new skill every month to keep myself up to date.
 
     - Include any resources or support required.
 
@@ -119,10 +123,10 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
 
-    Sticking to deadlines
+    Sticking to deadlines when things get hard. Just to get better, and learn more.
     being respectful, and always learning
-    perfecting existing skills
-    Learning new skills
+    perfecting existing skills, so I could stand out as an expert
+    Learning new skills so I can be somewhat diverse.
 
     - Consider additional skills, experiences, or qualifications needed.
 
